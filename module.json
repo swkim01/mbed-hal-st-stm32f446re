@@ -9,7 +9,7 @@
     "f446re",
     "nucleo"
   ],
-  "author": "swkim01@gmail.com",
+  "author": "aquilegia",
   "repository": {
     "url": "https://github.com/swkim01/mbed-hal-st-stm32f446re.git",
     "type": "git"
