@@ -1,0 +1,33 @@
+{
+  "name": "mbed-hal-st-stm32f446re",
+  "version": "0.1.0",
+  "description": "mbed HAL for stm32f446re microcontrollers",
+  "keywords": [
+    "mbed",
+    "hal",
+    "stm",
+    "f446re",
+    "nucleo"
+  ],
+  "author": "swkim01@gmail.com",
+  "repository": {
+    "url": "https://github.com/swkim01/mbed-hal-st-stm32f446re.git",
+    "type": "git"
+  },
+  "homepage": "https://github.com/swkim01/mbed-hal-st-stm32f446re",
+  "licenses": [
+    {
+      "url": "https://spdx.org/licenses/Apache-2.0",
+      "type": "Apache-2.0"
+    }
+  ],
+  "extraIncludes": [
+    "mbed-hal-st-stm32f446re"
+  ],
+  "dependencies": {
+    "cmsis-core": "^1.0.0",
+    "uvisor-lib": ">=1.0.0,<3.0.0",
+    "mbed-hal-st-stm32f4": ">=1.0.4"
+  },
+  "targetDependencies": {}
+}
